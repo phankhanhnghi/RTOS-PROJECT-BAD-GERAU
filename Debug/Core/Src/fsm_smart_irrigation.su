@@ -1,0 +1,2 @@
+fsm_smart_irrigation.c:15:6:fsm_irrigation_init	8	static
+fsm_smart_irrigation.c:27:6:fsm_irrigation_run	8	static
